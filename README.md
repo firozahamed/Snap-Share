@@ -1,0 +1,4 @@
+Snap-Share
+==========
+
+camera integration
